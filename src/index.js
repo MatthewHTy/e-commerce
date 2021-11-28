@@ -8,6 +8,7 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
+  // React StrictMode is used to highlight potential problems
   document.getElementById('root')
 );
 
